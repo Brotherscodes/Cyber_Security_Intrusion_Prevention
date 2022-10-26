@@ -4,7 +4,7 @@
 
 We are using a machine learning model to detect factors that contribute to cyber attacks in an effort to limit the vulnerability of the average consumer.
 <p align=center>
-<img src=Images/cybersecurity.jpg height=475>
+<img src=Images/cybersecurity.jpg height=350 width=800>
 
 
 
