@@ -1,17 +1,25 @@
 # Cyber_Security_Intrusion_Prevention
 
-## Project Overview:
+## Overview of Topic:
 
-We are using a machine learning model to detect factors that contribute to cyber attacks in an effort to limit the vulnerability of the average consumer.
+We are using a `machine learning model` to detect factors that contribute to cyber attacks in an effort to limit the vulnerability of the average consumer.
+
 <p align=center>
 <img src=Images/cybersecurity.jpg height=350 width=800>
 
+<br>
 
+## Why did we chose this topic?
 
+-----------------------------------------------------------------------------
 
+## Description of our source data:
 
+-----------------------------------------------------------------------------
 
+## Questions we are seeking to answer with our data:
 
+-----------------------------------------------------------------------------
 
 
 ## Cited_Resources:
