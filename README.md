@@ -21,6 +21,10 @@ We are using a `machine learning model` to detect factors that contribute to cyb
 
 -----------------------------------------------------------------------------
 
+## Communication Protocols:
+
+We currently meet twice weekly and continue to communicate as needed through Slack.
+
 
 ## Cited_Resources:
 
