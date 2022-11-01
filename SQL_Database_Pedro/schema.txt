@@ -8,7 +8,7 @@ destination_ip int
 
 Packets 
 -
-timestamp datetime PK FK >- Time.timestamp
+times datetime PK FK >- Time.timestamp
 Average_packet_size int
 bwd_packet_length_std int
 flow_id FK >- Flows.flow_id int
