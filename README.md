@@ -23,9 +23,9 @@ Description taken from [Data Source](https://www.unb.ca/cic/datasets/ids-2017.ht
 
 ## Questions we are seeking to answer with our data:
 
-1. What is a DDoS attack?
+1. How does a DDoS attack happen?
 
-2. What day of the week are DDoS attacks most prevelent?
+2. What does a DDoS attack affect?
 
 3. Who is the target audience for DDoS attacks?
 
