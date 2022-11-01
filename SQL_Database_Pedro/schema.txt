@@ -1,0 +1,21 @@
+Flows
+-
+flow_id PK int
+source_ip int
+source_port int
+destination_port int
+destination_ip int
+
+Packets 
+-
+times datetime PK FK >- Time.timestamp
+Average_packet_size int
+bwd_packet_length_std int
+flow_id FK >- Flows.flow_id int
+
+Time
+-
+flow_id FK >- Flows.flow_id int
+flow_iat_std int
+flow_duration int
+timestamp  datetime
