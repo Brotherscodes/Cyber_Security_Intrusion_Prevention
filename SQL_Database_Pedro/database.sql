@@ -24,4 +24,36 @@ CREATE TABLE time (
 FOREIGN KEY (flow_id) REFERENCES flows (flow_id)
 );
 
+SELECT fl.flow_id,
+	fl.source_ip,
+    fl.destination_port,
+	fl.destination_ip,
+	pa.avg_packet_size,
+	pa.bwd_packet_length_std
+INTO flow_summary
+FROM flows as fl
+LEFT JOIN packets as pa
+ON fl.flow_id = pa.flow_id;
+
+SELECT fl.flow_id,
+	fl.source_ip,
+	fl.destination_ip,
+	ti.flow_iat_std,
+	ti.flow_duration,
+	ti.times
+INTO flow_time
+FROM flows as fl
+LEFT JOIN time as ti
+ON fl.flow_id = ti.flow_id;
+
+SELECT pa.times,
+	pa.avg_packet_size,
+	pa.bwd_packet_length_std,
+	ti.flow_iat_std,
+	ti.flow_duration
+INTO pac_time
+FROM packets as pa
+LEFT JOIN time as ti
+ON pa.times = ti.times;
+
 
