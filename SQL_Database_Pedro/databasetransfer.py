@@ -13,6 +13,6 @@ engine = create_engine(db_string)
 
 
 # Transfer data from dataframes to SQL Database
-df.to_sql(name='table1', con=engine, if_exists='replace')
-df.to_sql(name='table2', con=engine, if_exists='replace')
-df.to_sql(name='table3', con=engine, if_exists='replace')
+df.to_sql(name='flows', con=engine, if_exists='replace')
+df.to_sql(name='packets', con=engine, if_exists='replace')
+df.to_sql(name='time', con=engine, if_exists='replace')

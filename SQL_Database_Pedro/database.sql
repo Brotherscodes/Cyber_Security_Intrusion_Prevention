@@ -46,4 +46,14 @@ FROM flows as fl
 LEFT JOIN time as ti
 ON fl.flow_id = ti.flow_id;
 
+SELECT pa.times,
+	pa.avg_packet_size,
+	pa.bwd_packet_length_std,
+	ti.flow_iat_std,
+	ti.flow_duration
+INTO pac_time
+FROM packets as pa
+LEFT JOIN time as ti
+ON pa.times = ti.times;
+
 
