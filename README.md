@@ -54,13 +54,13 @@ We currently meet twice weekly and continue to communicate as needed through Sla
 
 ## Software:
 
-    - Tableau Public
-    - VS Code
-    - Pandas
-    - Python
-    - PostgresSQL
+- Tableau Public
+- VS Code
+- Pandas
+- Python
+- PostgresSQL
 
 ## Data:
 
-    - Friday-WorkingHours-Afternoon-DDos.pcap_ISCX.csv
+- Friday-WorkingHours-Afternoon-DDos.pcap_ISCX.csv
 
