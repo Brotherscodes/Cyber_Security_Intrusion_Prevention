@@ -23,11 +23,11 @@ Description taken from [Data Source](https://www.unb.ca/cic/datasets/ids-2017.ht
 
 ## Description of Data Exploration: 
 
-----------------------------------------
+[NEEDS TO BE WRITTEN]
 
 ## Description of Data Analysis phase:
 
-----------------------------------------
+[NEEDS TO BE WRITTEN]
 
 ## Questions we are seeking to answer with our data:
 
