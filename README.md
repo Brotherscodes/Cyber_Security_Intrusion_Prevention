@@ -11,7 +11,7 @@ We are using a `machine learning model` to detect factors that contribute to `DD
 
 ## Why did we chose this topic? 
 
-Living in a digital age, Cybersecurity is not only necessary but crucial. Preparedness is key to swiftly detecting and remedying an attack. Preventative measures can help secure information on a scale of one's social security information through threatening national security. We chose this topic to inform the general public of DDoS attacks, the common variables associated, and preventative measure they can take.
+Living in a digital age, Cybersecurity is not only necessary but crucial. Preparedness is key to swiftly detecting and remedying an attack. Preventative measures can help secure information on a scale of one's social security information through national security. We chose this topic to inform the general public of DDoS attacks, the common variables associated, and preventative measure they can take.
 
 ## Description of our source data:
 
