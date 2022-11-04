@@ -27,9 +27,9 @@ Description taken from [Data Source](https://www.unb.ca/cic/datasets/ids-2017.ht
 
 * Checked or outliers in the dataframe by creating and analyzing visualizations.
 
-* Explored each visualiaztion for possible errors and anamolies.
+* Explored each visualization for possible errors and anomalies.
 
-* Seperated data to find the percentage of DDoS data and Benign data.
+* Separated data to find the percentage of DDoS data and Benign data.
 
 ## Description of Data Analysis phase:
 
