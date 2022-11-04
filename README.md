@@ -23,7 +23,7 @@ Description taken from [Data Source](https://www.unb.ca/cic/datasets/ids-2017.ht
 
 ## Description of Data Exploration: 
 
-* Exlpored numerical values of the cleaned DDoS dataframe.
+* Explored numerical values of the cleaned DDoS dataframe.
 
 * Checked or outliers in the dataframe by creating and analyzing visualizations.
 
