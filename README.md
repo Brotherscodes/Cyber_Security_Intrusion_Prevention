@@ -23,11 +23,21 @@ Description taken from [Data Source](https://www.unb.ca/cic/datasets/ids-2017.ht
 
 ## Description of Data Exploration: 
 
-[NEEDS TO BE WRITTEN]
+* Exlpored numerical values of the cleaned DDoS dataframe.
+
+* Checked or outliers in the dataframe by creating and analyzing visualizations.
+
+* Explored each visualiaztion for possible errors and anamolies.
+
+* Seperated data to find the percentage of DDoS data and Benign data.
 
 ## Description of Data Analysis phase:
 
-[NEEDS TO BE WRITTEN]
+* Explore to find missing values and remove them.
+
+* Gather what columns would be useful to detect DDoS attacks.
+
+* Build a dataframe using the data attributed to DDoS attacks.
 
 ## Questions we are seeking to answer with our data:
 
