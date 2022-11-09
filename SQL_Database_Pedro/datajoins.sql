@@ -20,14 +20,18 @@ FROM flows as fl
 LEFT JOIN time as ti
 ON fl."Flow ID" = ti."Flow ID";
 
-SELECT ti." Timestamp",
-	pa." Average Packet Size",
-	pa." Bwd Packet Length Std",
+SELECT fl."Flow ID",
+	fl." Source IP",
+    fl." Destination Port",
+	fl." Destination IP",
+	fl." Average Packet Size",
+	fl." Bwd Packet Length Std",
 	ti." Flow IAT Std",
-	ti." Flow Duration"
-INTO pac_time
-FROM packets as pa
+	ti." Flow Duration",
+	ti." Timestamp"
+INTO full_sum
+FROM flow_summary as fl
 LEFT JOIN time as ti
-ON pa." Timestamp" = ti." Timestamp";
+ON fl."Flow ID" = ti."Flow ID";
 
 
