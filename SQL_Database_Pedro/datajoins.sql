@@ -18,16 +18,16 @@ SELECT fl."Flow ID",
 INTO flow_time
 FROM flows as fl
 LEFT JOIN time as ti
-ON fl." Flow ID" = ti." Flow_ID";
+ON fl."Flow ID" = ti."Flow ID";
 
-SELECT ti." Timestamp"
+SELECT ti." Timestamp",
 	pa." Average Packet Size",
-	pa." Bwd Packet Length Std"
+	pa." Bwd Packet Length Std",
 	ti." Flow IAT Std",
 	ti." Flow Duration"
 INTO pac_time
 FROM packets as pa
 LEFT JOIN time as ti
-ON pa.times = ti.times;
+ON pa." Timestamp" = ti." Timestamp";
 
 
