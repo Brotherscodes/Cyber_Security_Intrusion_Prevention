@@ -11,7 +11,7 @@ We are using a `machine learning model` to detect factors that contribute to `DD
 
 ## Why did we chose this topic? 
 
-Living in a digital age, Cybersecurity is not only necessary but crucial. Preparedness is key to swiftly detecting and remedying an attack. Preventative measures can help secure information on a scale of one's social security information through threatening national security. We chose this topic to inform the general public of DDoS attacks, the common variables associated, and preventative measure they can take.
+Living in a digital age, Cybersecurity is not only necessary but crucial. Preparedness is key to swiftly detecting and remedying an attack. Preventative measures can help secure information on a scale of one's social security information through national security. We chose this topic to inform the general public of DDoS attacks, the common variables associated, and preventative measure they can take.
 
 ## Description of our source data:
 
@@ -23,11 +23,21 @@ Description taken from [Data Source](https://www.unb.ca/cic/datasets/ids-2017.ht
 
 ## Description of Data Exploration: 
 
-----------------------------------------
+* Explored numerical values of the cleaned DDoS dataframe.
+
+* Checked or outliers in the dataframe by creating and analyzing visualizations.
+
+* Explored each visualization for possible errors and anomalies.
+
+* Separated data to find the percentage of DDoS data and Benign data.
 
 ## Description of Data Analysis phase:
 
-----------------------------------------
+* Explore to find missing values and remove them.
+
+* Gather what columns would be useful to detect DDoS attacks.
+
+* Build a dataframe using the data attributed to DDoS attacks.
 
 ## Questions we are seeking to answer with our data:
 
@@ -54,13 +64,13 @@ We currently meet twice weekly and continue to communicate as needed through Sla
 
 ## Software:
 
-    - Tableau Public
-    - VS Code
-    - Pandas
-    - Python
-    - PostgresSQL
+- Tableau Public
+- VS Code
+- Pandas
+- Python
+- PostgresSQL
 
 ## Data:
 
-    - Friday-WorkingHours-Afternoon-DDos.pcap_ISCX.csv
+- Friday-WorkingHours-Afternoon-DDos.pcap_ISCX.csv
 
