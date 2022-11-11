@@ -4,6 +4,8 @@
 
 We are using a `machine learning model` to detect factors that contribute to `DDoS` cyber attacks in an effort to limit the vulnerability of the average consumer.
 
+Link to Final Presentation:[Project Slides](https://docs.google.com/presentation/d/1BGkvzoi-ZbRzThANntzPU5MF0rSk4ARFwnCoBVOYQQ4/edit?usp=sharing)
+
 <p align=center>
 <img src=Images/cybersecurity.jpg height=350 width=800>
 
