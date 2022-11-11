@@ -51,13 +51,6 @@ Description taken from [Data Source](https://www.unb.ca/cic/datasets/ids-2017.ht
 
 4. What preventative measures can be taken to protect the average user from a malicious DDoS attack?
 
-
-
-## Communication Protocols:
-
-We currently meet twice weekly and continue to communicate as needed through Slack.
-
-
 ## Cited_Resources:
 
 - `Iman Sharafaldin, Arash Habibi Lashkari, and Ali A. Ghorbani, “Toward Generating a New Intrusion Detection Dataset and Intrusion Traffic Characterization”, 4th International Conference on Information Systems Security and Privacy (ICISSP), Portugal, January 2018`
