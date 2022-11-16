@@ -4,6 +4,8 @@
 
 We are using a `machine learning model` to detect factors that contribute to `DDoS` cyber attacks in an effort to limit the vulnerability of the average consumer.
 
+Link to Final Presentation: [Project Slides](https://docs.google.com/presentation/d/1BGkvzoi-ZbRzThANntzPU5MF0rSk4ARFwnCoBVOYQQ4/edit?usp=sharing)
+
 <p align=center>
 <img src=Images/cybersecurity.jpg height=350 width=800>
 
@@ -48,13 +50,6 @@ Description taken from [Data Source](https://www.unb.ca/cic/datasets/ids-2017.ht
 3. Who is the target audience for DDoS attacks?
 
 4. What preventative measures can be taken to protect the average user from a malicious DDoS attack?
-
-
-
-## Communication Protocols:
-
-We currently meet twice weekly and continue to communicate as needed through Slack.
-
 
 ## Cited_Resources:
 
