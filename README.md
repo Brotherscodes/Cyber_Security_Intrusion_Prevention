@@ -20,9 +20,19 @@ Link to Final Tableau Dashboard: [Project Tableau Dashboard](https://public.tabl
 
 Living in a digital age, Cybersecurity is not only necessary but crucial. Preparedness is key to swiftly detecting and remedying an attack. Preventative measures can help secure information on a scale of one's social security information through national security. We chose this topic to inform the general public of DDoS attacks, the common variables associated, and preventative measure they can take.
 
+## Questions we are seeking to answer with our data:
+
+1. How does a DDoS attack happen? 
+
+2. What does a DDoS attack affect?
+
+3. Who is the target audience for DDoS attacks?
+
+4. What preventative measures can be taken to protect the average user from a malicious DDoS attack?
+
 ## Description of our source data:
 
-- Intrusion Detection Evaluation Dataset (CIC-IDS2017) from the Canadian Institute for Cybersecurity. 
+- Intrusion Detection Evaluation Dataset (CIC-IDS2017) from the Canadian Institute for Cybersecurity.
 
 Description taken from [Data Source](https://www.unb.ca/cic/datasets/ids-2017.html):
 
@@ -38,7 +48,7 @@ Description taken from [Data Source](https://www.unb.ca/cic/datasets/ids-2017.ht
 
 * Separated data to find the percentage of DDoS data and Benign data.
 
-## Description of Data Analysis phase:
+## Description of Data Analysis phase: 
 
 * Explore to find missing values and remove them.
 
@@ -46,23 +56,15 @@ Description taken from [Data Source](https://www.unb.ca/cic/datasets/ids-2017.ht
 
 * Build a dataframe using the data attributed to DDoS attacks.
 
-## Questions we are seeking to answer with our data:
 
-1. How does a DDoS attack happen?
 
-2. What does a DDoS attack affect?
-
-3. Who is the target audience for DDoS attacks?
-
-4. What preventative measures can be taken to protect the average user from a malicious DDoS attack?
-
-## Cited_Resources:
+## Cited_Resources: 
 
 - `Iman Sharafaldin, Arash Habibi Lashkari, and Ali A. Ghorbani, “Toward Generating a New Intrusion Detection Dataset and Intrusion Traffic Characterization”, 4th International Conference on Information Systems Security and Privacy (ICISSP), Portugal, January 2018`
 
 - [Link to Data Source](https://www.unb.ca/cic/datasets/ids-2017.html)
 
-## Software:
+## Software: 
 
 - Tableau Public
 - VS Code
@@ -70,7 +72,7 @@ Description taken from [Data Source](https://www.unb.ca/cic/datasets/ids-2017.ht
 - Python
 - PostgresSQL
 
-## Data:
+## Data: 
 
 - Friday-WorkingHours-Afternoon-DDos.pcap_ISCX.csv
 
