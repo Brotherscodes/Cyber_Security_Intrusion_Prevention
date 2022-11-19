@@ -74,5 +74,6 @@ Description taken from [Data Source](https://www.unb.ca/cic/datasets/ids-2017.ht
 
 ## Data: 
 
-- Friday-WorkingHours-Afternoon-DDos.pcap_ISCX.csv
+- Friday-WorkingHours-Afternoon-DDos.pcap_ISCX.csv ([View/Download](https://github.com/Brotherscodes/Cyber_Security_Intrusion_Prevention/blob/main/Resources/Friday-WorkingHours-Afternoon-DDos.pcap_ISCX.csv))
 
+- Cleaned_DDoS_Dataframe.csv  ([View/Download](https://github.com/Brotherscodes/Cyber_Security_Intrusion_Prevention/blob/main/Resources/Cleaned_DDos_DataFrame.csv))
