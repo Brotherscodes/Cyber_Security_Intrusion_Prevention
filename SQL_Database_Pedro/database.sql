@@ -1,3 +1,4 @@
+-- Amount of transactions
 CREATE TABLE flows (
     flow_id INT NOT NULL,
     source_ip INT NOT NULL,
@@ -5,7 +6,7 @@ CREATE TABLE flows (
 	destination_ip INT NOT NULL,
     PRIMARY KEY (flow_id)
 );
-
+-- Size of the transactions
 CREATE TABLE packets (
     times TIMESTAMP NOT NULL,
     avg_packet_size INT NOT NULL,
@@ -14,7 +15,7 @@ CREATE TABLE packets (
     PRIMARY KEY (times),
 FOREIGN KEY (flow_id) REFERENCES flows (flow_id)
 );
-
+-- Length of the transactions
 CREATE TABLE time (
     flow_id INT NOT NULL,
     flow_iat_std INT NOT NULL,
