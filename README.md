@@ -8,7 +8,7 @@ We are using a `machine learning model` to detect factors that contribute to `DD
  
  `Benign`: Harmless or well intentioned, the opposite of malicious.
 
- `DDoS`:  Distributed Denial of Service (DDoS) attacks. A term used to identify a type malicious attack.
+ `DDoS`:  Distributed Denial of Service (DDoS). A term used to identify a type malicious attack.
 
 <br>
 
@@ -75,7 +75,7 @@ Link to Tableau Dashboard: [Tableau Dashboard](https://public.tableau.com/app/pr
 
 * Build a dataframe using the data attributed to DDoS attacks.
 
-
+<img src=Images/ERD.png>
 
 ## Cited_Resources: 
 
