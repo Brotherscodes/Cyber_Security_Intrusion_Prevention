@@ -22,4 +22,16 @@
 
   ![Accuracy_Report](https://github.com/Brotherscodes/Cyber_Security_Intrusion_Prevention/blob/d2e81d9a5b092643b10e8ee2a2efde4ad79543af/Machine_Learning+ETL_Ethan/Resources/final%20report.png)    
 
+## Sources:
 
+* https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.IsolationForest.html
+
+* https://towardsdatascience.com/how-to-perform-anomaly-detection-with-the-isolation-forest-algorithm-e8c8372520bc
+
+* https://towardsdatascience.com/anomaly-detection-how-to-tell-good-performance-from-bad-b57116d71a10
+
+* https://blog.paperspace.com/anomaly-detection-isolation-forest/#:~:text=Using%20Isolation%20Forest%2C%20we%20can,of%20profiling%20normal%20data%20points.
+
+* https://www.kaggle.com/code/gauravsahani/anomaly-detection-with-isolation-forest/notebook
+
+* https://ieeexplore.ieee.org/abstract/document/8438865
