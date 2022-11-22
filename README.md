@@ -72,9 +72,9 @@ Description taken from [Data Source](https://www.unb.ca/cic/datasets/ids-2017.ht
 
 - `Iman Sharafaldin, Arash Habibi Lashkari, and Ali A. Ghorbani, “Toward Generating a New Intrusion Detection Dataset and Intrusion Traffic Characterization”, 4th International Conference on Information Systems Security and Privacy (ICISSP), Portugal, January 2018`
 
-- [Link to Data Source](https://www.unb.ca/cic/datasets/ids-2017.html)
-
 - CISA. (2009, November 4). Understanding Denial-of-Service Attacks. National Cyber Awareness System. Retrieved November 1, 2022, from https://www.cisa.gov/uscert/ncas/tips/ST04-015
+
+- [Link to Data Source](https://www.unb.ca/cic/datasets/ids-2017.html)
 
 ## Software: 
 
