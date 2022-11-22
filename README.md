@@ -8,8 +8,8 @@ We are using a `machine learning model` to detect factors that contribute to `DD
  
  `Benign`: Harmless or well intentioned, the opposite of malicious.
 
- `DDoS`:  Distributed Denial of Service (DDoS) attacks
- 
+ `DDoS`:  Distributed Denial of Service (DDoS) attacks. A term used to identify a type malicious attack.
+
 <br>
 
 <p align=center>
