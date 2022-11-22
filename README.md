@@ -32,13 +32,13 @@ Link to Tableau Dashboard: [Tableau Dashboard](https://public.tableau.com/app/pr
 
 ## Questions we are seeking to answer with our data:
 
-1. How does a DDoS attack happen? 
+1. `How does a DDoS attack happen?`
 
-2. What does a DDoS attack affect?
+2. `What does a DDoS attack affect?`
 
-3. Who is the target audience for DDoS attacks?
+3. `Who is the target audience for DDoS attacks?`
 
-4. What preventative measures can be taken to protect the average user from a malicious DDoS attack?
+4. `What preventative measures can be taken to protect the average user from a malicious DDoS attack?`
 
 ## Description of our source data:
 
