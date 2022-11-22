@@ -4,6 +4,12 @@
 
 We are using a `machine learning model` to detect factors that contribute to `DDoS` cyber attacks in an effort to limit the vulnerability of the average consumer.
 
+### Defined Terms: 
+ 
+ `Benign`: Harmless or well intentioned, the opposite of malicious.
+
+ `DDoS`:  Distributed Denial of Service (DDoS) attacks
+ 
 <br>
 
 <p align=center>
@@ -26,6 +32,9 @@ Link to Presentation Slides: [Project Slides](https://docs.google.com/presentati
 <img src=Images/project_slides.png height=500 width=800>
 
 Link to Tableau Dashboard: [Tableau Dashboard](https://public.tableau.com/app/profile/dylan.brothers/viz/FinalProjectDashboard_16685639459140/FinalProjectDashboard?publish=yes)
+
+
+
 
 <p align = center>
 <img src= Images/Dashboard.png height=500 width=800>
