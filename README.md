@@ -57,7 +57,8 @@ Link to Tableau Dashboard: [Tableau Dashboard](https://public.tableau.com/app/pr
 
     Description taken from: [Data Source](https://www.unb.ca/cic/datasets/ids-2017.html)
 
-    <img src=Images/Allocation.png width=1000>
+<p align= center>
+<img src=Images/Allocation.png width=800>
 
 ## Description of Data Exploration: 
 
