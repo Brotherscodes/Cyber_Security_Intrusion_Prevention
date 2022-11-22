@@ -1,3 +1,4 @@
+--Flow Sizes
 SELECT fl."Flow ID",
 	fl." Source IP",
     fl." Destination Port",
@@ -9,6 +10,7 @@ FROM flows as fl
 LEFT JOIN packets as pa
 ON fl."Flow ID" = pa."Flow ID";
 
+-- Flow Lengths
 SELECT fl."Flow ID",
 	fl." Source IP",
 	fl." Destination IP",
@@ -20,6 +22,7 @@ FROM flows as fl
 LEFT JOIN time as ti
 ON fl."Flow ID" = ti."Flow ID";
 
+-- Original Table
 SELECT fl."Flow ID",
 	fl." Source IP",
     fl." Destination Port",
