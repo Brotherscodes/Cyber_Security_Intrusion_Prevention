@@ -4,10 +4,7 @@
 
 We are using a `machine learning model` to detect factors that contribute to `DDoS` cyber attacks in an effort to limit the vulnerability of the average consumer.
 
-Link to Presentation Slides: [Project Slides](https://docs.google.com/presentation/d/1BGkvzoi-ZbRzThANntzPU5MF0rSk4ARFwnCoBVOYQQ4/edit?usp=sharing)
 <br>
-
-Link to Tableau Dashboard: [Tableau Dashboard](https://public.tableau.com/app/profile/dylan.brothers/viz/FinalProjectDashboard_16685639459140/FinalProjectDashboard?publish=yes)
 
 <p align=center>
 <img src=Images/cybersecurity.jpg height=350 width=800>
@@ -16,7 +13,22 @@ Link to Tableau Dashboard: [Tableau Dashboard](https://public.tableau.com/app/pr
 
 ## Why did we chose this topic? 
 
+
 Living in a digital age, Cybersecurity is not only necessary but crucial. Preparedness is key to swiftly detecting and remedying an attack. Preventative measures can help secure your personal information and time from a legitimate cyber threat. We chose this topic to inform the general public of DDoS attacks, the common variables associated, and preventative measure they can take.
+
+<br>
+
+
+Link to Presentation Slides: [Project Slides](https://docs.google.com/presentation/d/1BGkvzoi-ZbRzThANntzPU5MF0rSk4ARFwnCoBVOYQQ4/edit?usp=sharing)
+<br>
+
+<p align=center>
+<img src=Images/project_slides.png height=500 width=625>
+
+Link to Tableau Dashboard: [Tableau Dashboard](https://public.tableau.com/app/profile/dylan.brothers/viz/FinalProjectDashboard_16685639459140/FinalProjectDashboard?publish=yes)
+
+<p align = center>
+<img src= Images/dashboard.png height=500>
 
 ## Questions we are seeking to answer with our data:
 
