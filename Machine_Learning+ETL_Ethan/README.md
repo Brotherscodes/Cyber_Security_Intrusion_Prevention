@@ -11,7 +11,7 @@
   
 ## Building the Machine Learning Model
 
-  Since our goal for this analysis can be boiled down to outliers detection, I decided to build an Isolation forest to assist us. An Isolation forest is a unsupervised machine learning model that takes in an imbalanced dataset, and uses decision trees to locate and isolate outliers in a dataset. It works by creating a split in the data between the smaller values and larger values, and repeats this process down a decision tree to create all the possible splits that can produced with the data, effectively isolating outliers early in the process of creating the decision tree.
+  Since our goal for this analysis can be boiled down to outliers detection, I decided to build an Isolation forest to assist us. An Isolation forest is a unsupervised machine learning model that takes in an imbalanced dataset, and uses decision trees to locate and isolate outliers in a dataset. It works by creating a split in the data between the smaller values, and larger values, and repeats this process down a decision tree to create all the possible splits that can produced with the data, effectively isolating outliers early in the process of creating the decision tree.
   
 
   ![Isolation_Forest](https://github.com/Brotherscodes/Cyber_Security_Intrusion_Prevention/blob/main/Machine_Learning%2BETL_Ethan/Resources/IsolationForest_png_1.png)
