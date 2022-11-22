@@ -57,6 +57,8 @@ Link to Tableau Dashboard: [Tableau Dashboard](https://public.tableau.com/app/pr
 
     Description taken from: [Data Source](https://www.unb.ca/cic/datasets/ids-2017.html)
 
+    <img src=Images/allocation.png width=1000>
+
 ## Description of Data Exploration: 
 
 * Explored numerical values of the cleaned DDoS dataframe.
