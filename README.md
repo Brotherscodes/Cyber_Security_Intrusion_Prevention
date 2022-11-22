@@ -23,12 +23,12 @@ Link to Presentation Slides: [Project Slides](https://docs.google.com/presentati
 <br>
 
 <p align=center>
-<img src=Images/project_slides.png height=500 width=625>
+<img src=Images/project_slides.png height=500 width=800>
 
 Link to Tableau Dashboard: [Tableau Dashboard](https://public.tableau.com/app/profile/dylan.brothers/viz/FinalProjectDashboard_16685639459140/FinalProjectDashboard?publish=yes)
 
 <p align = center>
-<img src= Images/dashboard.png height=500>
+<img src= Images/Dashboard.png height=500 width=800>
 
 ## Questions we are seeking to answer with our data:
 
