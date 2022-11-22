@@ -42,8 +42,7 @@ Link to Tableau Dashboard: [Tableau Dashboard](https://public.tableau.com/app/pr
 
 ## Description of our source data:
 
-- 
-"The CICIDS2017 dataset consists of labeled network flows, including full packet payloads in pcap format, the corresponding profiles and the labeled flows (GeneratedLabelledFlows.zip) and CSV files for machine and deep learning purposes."
+- "The CICIDS2017 dataset consists of labeled network flows, including full packet payloads in pcap format, the corresponding profiles and the labeled flows (GeneratedLabelledFlows.zip) and CSV files for machine and deep learning purposes."
 
 - Intrusion Detection Evaluation Dataset (CIC-IDS2017) from the Canadian Institute for Cybersecurity.
 
