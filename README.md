@@ -4,10 +4,13 @@
 
 We are using a `machine learning model` to detect factors that contribute to `DDoS` cyber attacks in an effort to limit the vulnerability of the average consumer.
 
-Link to Presentation Slides: [Project Slides](https://docs.google.com/presentation/d/1BGkvzoi-ZbRzThANntzPU5MF0rSk4ARFwnCoBVOYQQ4/edit?usp=sharing)
-<br>
+### Defined Terms: 
+ 
+ `Benign`: Harmless or well intentioned, the opposite of malicious.
 
-Link to Tableau Dashboard: [Tableau Dashboard](https://public.tableau.com/app/profile/dylan.brothers/viz/FinalProjectDashboard_16685639459140/FinalProjectDashboard?publish=yes)
+ `DDoS`:  Distributed Denial of Service (DDoS). A term used to identify a type malicious attack.
+
+<br>
 
 <p align=center>
 <img src=Images/cybersecurity.jpg height=350 width=800>
@@ -16,25 +19,43 @@ Link to Tableau Dashboard: [Tableau Dashboard](https://public.tableau.com/app/pr
 
 ## Why did we chose this topic? 
 
+
 Living in a digital age, Cybersecurity is not only necessary but crucial. Preparedness is key to swiftly detecting and remedying an attack. Preventative measures can help secure your personal information and time from a legitimate cyber threat. We chose this topic to inform the general public of DDoS attacks, the common variables associated, and preventative measure they can take.
+
+<br>
+
+
+Link to Presentation Slides: [Project Slides](https://docs.google.com/presentation/d/1BGkvzoi-ZbRzThANntzPU5MF0rSk4ARFwnCoBVOYQQ4/edit?usp=sharing)
+<br>
+
+<p align=center>
+<img src=Images/project_slides.png height=500 width=800>
+
+Link to Tableau Dashboard: [Tableau Dashboard](https://public.tableau.com/app/profile/dylan.brothers/viz/FinalProjectDashboard_16685639459140/FinalProjectDashboard?publish=yes)
+
+
+
+
+<p align = center>
+<img src= Images/Dashboard.png height=500 width=800>
 
 ## Questions we are seeking to answer with our data:
 
-1. How does a DDoS attack happen? 
+1. `How does a DDoS attack happen?`
 
-2. What does a DDoS attack affect?
+2. `What does a DDoS attack affect?`
 
-3. Who is the target audience for DDoS attacks?
+3. `Who is the target audience for DDoS attacks?`
 
-4. What preventative measures can be taken to protect the average user from a malicious DDoS attack?
+4. `What preventative measures can be taken to protect the average user from a malicious DDoS attack?`
 
 ## Description of our source data:
 
+- "The CICIDS2017 dataset consists of labeled network flows, including full packet payloads in pcap format, the corresponding profiles and the labeled flows (GeneratedLabelledFlows.zip) and CSV files for machine and deep learning purposes."
+
 - Intrusion Detection Evaluation Dataset (CIC-IDS2017) from the Canadian Institute for Cybersecurity.
 
-Description taken from [Data Source](https://www.unb.ca/cic/datasets/ids-2017.html):
-
-"The CICIDS2017 dataset consists of labeled network flows, including full packet payloads in pcap format, the corresponding profiles and the labeled flows (GeneratedLabelledFlows.zip) and CSV files for machine and deep learning purposes."
+    Description taken from: [Data Source](https://www.unb.ca/cic/datasets/ids-2017.html)
 
 ## Description of Data Exploration: 
 
@@ -54,15 +75,15 @@ Description taken from [Data Source](https://www.unb.ca/cic/datasets/ids-2017.ht
 
 * Build a dataframe using the data attributed to DDoS attacks.
 
-
+<img src=Images/ERD.png width=800>
 
 ## Cited_Resources: 
 
 - `Iman Sharafaldin, Arash Habibi Lashkari, and Ali A. Ghorbani, “Toward Generating a New Intrusion Detection Dataset and Intrusion Traffic Characterization”, 4th International Conference on Information Systems Security and Privacy (ICISSP), Portugal, January 2018`
 
-- [Link to Data Source](https://www.unb.ca/cic/datasets/ids-2017.html)
-
 - CISA. (2009, November 4). Understanding Denial-of-Service Attacks. National Cyber Awareness System. Retrieved November 1, 2022, from https://www.cisa.gov/uscert/ncas/tips/ST04-015
+
+- [Link to Data Source](https://www.unb.ca/cic/datasets/ids-2017.html)
 
 ## Software: 
 
