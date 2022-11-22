@@ -75,7 +75,7 @@ Link to Tableau Dashboard: [Tableau Dashboard](https://public.tableau.com/app/pr
 
 * Build a dataframe using the data attributed to DDoS attacks.
 
-<img src=Images/ERD.png>
+<img src=Images/ERD.png width=800>
 
 ## Cited_Resources: 
 
